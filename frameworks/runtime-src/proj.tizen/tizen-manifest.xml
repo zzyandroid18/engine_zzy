@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="2.3" package="org.cocos.zzy" version="1.0.0">
+    <ui-application appid="org.cocos.zzy" exec="hellolua" type="capp" multiple="false" taskmanage="true" nodisplay="false">
+        <icon>MyLuaGame.png</icon>
+        <label>MyLuaGame</label>
+	</ui-application>
+</manifest>
