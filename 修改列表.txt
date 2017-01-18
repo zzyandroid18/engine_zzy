@@ -1,0 +1,36 @@
+修改
+COCOS:
+1.WidgetReader/QBMFontReader
+2.WidgetReader/TextReader
+3.WidgetReader/FontSizeDataParser.cpp
+4.WidgetReader/FontSizeDataParser.h
+5.WidgetReader/WidgetReader.cpp
+6.WidgetReader/WidgetReader.h
+7.ui/UIText.cpp
+8.ui/UIText.h
+9.ui/TextBMFont.cpp
+10.ui/TextBMFont.h
+11.ui/TextField.cpp
+12.ui/TextField.h
+13.ui/UIVideoPlayer-android.cpp
+14.ui/UIWebViewImpl-android.cpp
+15.ui/UIWidgetPool.h
+16.ui/UIWidgetPool.cpp
+17.ui/UIButton.cpp
+18.ui/UIButton.h
+19.ui/UIRichText.cpp
+20.ui/UIRichText.h
+21.ui/UIScale9Sprite.cpp
+22.ui/UIScale9Sprite.h
+23.WidgetReader\ButtonReader\ButtonReader.cpp
+24.WidgetReader\ButtonReader\ButtonReader.h
+25.platform\   ResourcesDecode.cpp   xxtea.c  资源加密
+26.cocos\renderer\   shader文件
+27.scripting\lua-bindings\manual\cocostudio\lua_cocos2dx_coco_studio_manual.cpp
+28.scripting\lua-bindings\manual\cocostudio\lua_cocos2dx_csloader_manual.cpp
+29.storage/local-storage/LocalStorage-android.cpp
+30.cocos/Andriod.mk    ../external/unzip/zip.cpp
+31.cocos/cocos2d.h
+32.extensions/GUI/CCScrollView/CCScrollView.cpp
+33.extensions/GUI/CCScrollView/CCTableView.cpp
+34.external/winrt-specific
